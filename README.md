@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Supermaya</h1>
+    <h1>Geaux Business Strategy Blog</h1>
     <br>
     <p>Supermaya is an <a href="https://github.com/11ty/eleventy/">Eleventy</a> starter kit designed to help you add rich features to a blog or website without the need for a complicated build process.</p>
     <br><img src="site/static/screenshot.png" width="500"/>
