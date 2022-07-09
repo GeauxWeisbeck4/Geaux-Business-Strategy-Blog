@@ -1,13 +1,22 @@
 ---
-title: Getting started
-date: "2019-11-01"
-description: "Supermaya is an Eleventy starter kit designed to help you add rich features to a blog or website without the need for a complicated build process."
+title: Getting Started
+date: "2022-07-11"
+description: "The Business Strategy Sprint focuses on the strategies (T-Algorithms) that drive the most successful and most valuable firms today."
 tags:
-  - demo-content
-  - sample-post
+  - section4
+  - post
   - blog
 ---
 
+## Welcome to the Business Strategy Sprint
+
+Follow me during or after my participation in Section 4's Business Strategy Sprint. I have been excited for this sprint, ever since the day I signed up for it. The main reason being the amount of respect I have for Professor Scott Galloway - he has a great mind and is successful, but he still thinks about people. It's hard to find somebody like that who exists at the highest levels of business decision making. I also love his writing style - I also love to get stoned before I write. I'm a heavy believer in the creative powers of mind altering things that help one transcend beyond their own self doubts, and also from taking one too seriously in life and focusing your attention on the important things in life.
+
+I chose the [Supermaya template](https://supermaya-demo.netlify.app/) because it was an easy implementation of an easy-to-use and highly configurable static website generator, [Eleventy](https://11ty.dev/), and allowed for me to quickly blog and catch up on the very last Saturday of the business sprint. Don't worry, many of these notes were taken throughout the last couple weeks. You don't have to think of me sitting her and getting carpel tunnel from creating this whole website on a Saturday, because I totally neglected my sprint duties for other projects - no way...
+
+Anyways, enjoy reading about another experience with a [Section 4](https://section4.com) sprint opportunity to create something cool, or improve myself in some awesome way. I decided that I would use my own little web development, marketing, and graphic design busienss, Tar Heel Dev Studio. I had pondered the idea of creating this brand and using it to represent myself in my freelance web development career. You can find my [current business website here](https://tarheeldevstudio.com) and hopefully will be enjoying new feature, provided by my services.
+
+Before I jump into to cover all that I have learned, I will begin with some project exercises and will continue in somewhat of a format throuhout my blog posts. 
 It comes with all the blog standard features:
 
 - Posts and Pages
